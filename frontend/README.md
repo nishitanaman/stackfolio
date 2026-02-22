@@ -1,6 +1,6 @@
 # Frontend
 
-React + Tailwind application for SkillVault.
+React + Tailwind application for Stackfolio.
 
 ## Setup
 
